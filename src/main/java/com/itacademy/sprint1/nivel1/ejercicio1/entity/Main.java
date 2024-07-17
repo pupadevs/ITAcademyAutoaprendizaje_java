@@ -1,8 +1,8 @@
-package com.itacademy.sprint1.nivel1;
+package com.itacademy.sprint1.nivel1.ejercicio1.entity;
 
-import com.itacademy.sprint1.nivel1.entity.Instrument;
-import com.itacademy.sprint1.nivel1.entity.StringIsntrument;
-import com.itacademy.sprint1.nivel1.entity.WindiInstrument;
+import com.itacademy.sprint1.nivel1.ejercicio1.entity.Instrument;
+import com.itacademy.sprint1.nivel1.ejercicio1.entity.StringIsntrument;
+import com.itacademy.sprint1.nivel1.ejercicio1.entity.WindiInstrument;
 
 public class Main {
     static {

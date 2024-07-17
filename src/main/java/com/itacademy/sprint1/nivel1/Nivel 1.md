@@ -15,3 +15,10 @@ Buscar información sobre los blogs de inicialización y blogs estáticos en Jav
 Añade dos métodos a la clase "Coche". Un método estático llamado frenar() y otro no estático llamado acelerar(). El método acelerar debe mostrar por consola: "El vehículo está acelerando" y el método frenar() debe mostrar: "El vehículo está frenando".
 
 Demuestra cómo invocar el método estático y el no estático desde el main() de la clase principal.
+
+- Ejercicio 2
+  Crea una clase "Coche" con los atributos: marca, modelo y potencia. La marca debe ser estático final, el modelo estático y la potencia final. Demuestra la diferencia entre los tres. ¿Hay alguno que pueda inicializarse al constructor de la clase?
+
+Añade dos métodos a la clase "Coche". Un método estático llamado frenar() y otro no estático llamado acelerar(). El método acelerar debe mostrar por consola: "El vehículo está acelerando" y el método frenar() debe mostrar: "El vehículo está frenando".
+
+Demuestra cómo invocar el método estático y el no estático desde el main() de la clase principal.
