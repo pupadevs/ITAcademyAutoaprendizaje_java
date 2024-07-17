@@ -1,4 +1,4 @@
-package com.itacademy.sprint1.nivel1.ejercicio2;
+package com.itacademy.sprint1.nivel1.ejercicio2.entity;
 
 public class Coche {
     private static final String MARCA = "Audi";

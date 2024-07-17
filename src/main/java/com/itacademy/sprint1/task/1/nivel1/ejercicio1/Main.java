@@ -1,4 +1,4 @@
-package com.itacademy.sprint1.nivel1.ejercicio1.entity;
+package com.itacademy.sprint1.nivel1.ejercicio1;
 
 import com.itacademy.sprint1.nivel1.ejercicio1.entity.Instrument;
 import com.itacademy.sprint1.nivel1.ejercicio1.entity.StringIsntrument;
